@@ -24,3 +24,6 @@ Example:
 Here are the lowest rated films on each platform
 
 ![alt text](https://github.com/bgosha24/Fandango-vs-The-People/blob/main/fandango1.jpg?raw=true)
+
+
+Most of Fandango's lowest rated films are 3.75/5 stars... They are clearly inflating their ratings.
