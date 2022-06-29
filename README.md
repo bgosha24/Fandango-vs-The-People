@@ -13,5 +13,7 @@ But what happens when you are a website that provides movie ratings, and also se
 
 Project overview:
 
-- 
-
+- Analyze Fandango's movie ratings through visualization and statistical measures
+- Find potential inconsistencies in Fandango's rating aggregation formulas
+- Comapre Fandango's movie ratings against other top movie rating sites like RottenTomatoes, IMDB, Metacritic
+- Decide whether Fandango is providing inflated movie rating to sell more tickets on their website
