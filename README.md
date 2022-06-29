@@ -17,3 +17,10 @@ Project overview:
 - Find potential inconsistencies in Fandango's rating aggregation formulas
 - Comapre Fandango's movie ratings against other top movie rating sites like RottenTomatoes, IMDB, Metacritic
 - Decide whether Fandango is providing inflated movie rating to sell more tickets on their website
+
+
+
+Example:
+Here are the lowest rated films on each platform
+
+![alt text](https://github.com/bgosha24/Fandango-vs-The-People/blob/main/fandango1.jpg?raw=true)
