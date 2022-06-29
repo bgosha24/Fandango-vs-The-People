@@ -21,7 +21,7 @@ But what happens when you are a website that provides movie ratings, and also se
 
 
 **Example:**
-*Here are the lowest rated films on each platform*
+*Here are the lowest rated films on each site*
 
 ![alt text](https://github.com/bgosha24/Fandango-vs-The-People/blob/main/fandango1.jpg?raw=true)
 
